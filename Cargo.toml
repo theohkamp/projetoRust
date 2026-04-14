@@ -1,0 +1,10 @@
+[package]
+name = "projetorust"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "projetorust"
+path = "src/lib.rs"
+
+[dependencies]
